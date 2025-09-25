@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers xmlns="https://www.w3.org/1999/xhtml">
+    	
+    <Customer id="1">
+        		
+        <name>ACME Hauling</name>
+        		
+        <type>commercial</type>
+        		
+        <address>123 Main Street</address>
+        		
+        <city>Cincinnati</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45211</zipcode>
+        	
+        <phone>555-0101</phone>
+        <contactName>Contact 1</contactName>
+        <email>user1@example.com</email>
+    </Customer>
+    	
+    <Customer id="2">
+        		
+        <name>AJ Newtown</name>
+        		
+        <type>residential</type>
+        		
+        <address>1 Sunny Way</address>
+        		
+        <city>Cincinnati</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45010</zipcode>
+        	
+        <phone>555-0102</phone>
+        <contactName>Contact 2</contactName>
+        <email>user2@example.com</email>
+    </Customer>
+    	
+    <Customer id="3">
+        		
+        <name>Foster Burgers</name>
+        		
+        <type>commercial</type>
+        		
+        <address>2000 Chester Road</address>
+        		
+        <city>Cincinnati</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45242</zipcode>
+        	
+        <phone>555-0103</phone>
+        <contactName>Contact 3</contactName>
+        <email>user3@example.com</email>
+    </Customer>
+    	
+    <Customer id="4">
+        		
+        <name>Jenny's Plants</name>
+        		
+        <type>residential</type>
+        		
+        <address>45 Greenhouse Ln</address>
+        		
+        <city>Mason</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45040</zipcode>
+        	
+        <phone>555-0104</phone>
+        <contactName>Contact 4</contactName>
+        <email>user4@example.com</email>
+    </Customer>
+    	
+    <Customer id="5">
+        		
+        <name>Midwest Movers</name>
+        		
+        <type>commercial</type>
+        		
+        <address>789 Logistics Pkwy</address>
+        		
+        <city>Dayton</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45402</zipcode>
+        	
+        <phone>555-0105</phone>
+        <contactName>Contact 5</contactName>
+        <email>user5@example.com</email>
+    </Customer>
+    
+</Customers>
